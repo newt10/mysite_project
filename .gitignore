@@ -1,3 +1,4 @@
 env_mysite/*
 node_modules/
 __pycache__/
+.vscode/
