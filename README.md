@@ -10,6 +10,8 @@ This module ignores
 
 Install
 =======
+$ git@github.com:newt10/mysite_project.git
+
 in mysite_project/
 $ pip install -r requirements.txt
 
